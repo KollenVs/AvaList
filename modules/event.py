@@ -5,7 +5,7 @@ import const
 import vk_api
 from modules.base_module import Module
 
-token = "2a20f45bb9bd05dc4edbf979ac09211225907fd4715bb468f430862567531ac99f228a8c81bb548e511af"
+token = ""
  
 vk = vk_api.VkApi(token=token)
  
